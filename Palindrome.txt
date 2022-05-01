@@ -1,1 +1,2 @@
 palindrome numbers are mirror numbers.
+new text added 
