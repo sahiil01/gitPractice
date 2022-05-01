@@ -1,2 +1,3 @@
 palindrome numbers are mirror numbers.
 new text added 
+main branch text changes.
